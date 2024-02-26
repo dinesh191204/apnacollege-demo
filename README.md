@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my fisrt GIT Repository
 <br>
-Author- Dinesh
+Author- Dinesh (Sk somaiya)
